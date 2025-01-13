@@ -4,7 +4,7 @@ Welcome to **Flappy Bird Windows Form**, a simple recreation of the classic Flap
 
 | **Game Preview** |
 |:----------------:|
-| <img src="https://github.com/MDimidov/Flappy-Bird-Windows-Form/blob/master/Flappy%20Bird%20Windows%20Form/GamePreview.png" width="500"> |
+| <img src="https://github.com/MDimidov/Flappy-Bird-Windows-Form/blob/master/GamePreview.png" width="500"> |
 
 ---
 
